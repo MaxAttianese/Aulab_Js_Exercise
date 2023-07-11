@@ -1,0 +1,139 @@
+/* Body Custom */
+
+body {
+
+    background-color: whitesmoke;
+
+}
+
+
+
+
+/* Logo Custom */
+
+.img-custom{
+
+    height: 25px;
+
+    padding-bottom: 3px;
+}
+
+
+/* Navbar link Hover */
+
+.link-hov:hover {
+
+    color: blue;
+}
+
+
+.btn-hov {
+
+    border: 1px solid blue;
+
+    background-color: blue;
+
+    color: white;
+}
+
+
+
+.btn-hov:hover {
+
+    background-color: red;
+
+    color: white;
+    
+}
+
+/* Box Custom */
+
+.div-box-shadow{
+
+    background-color: white;
+
+    box-shadow: 8px 8px 8px gray;
+
+}
+
+
+/* Icon-user */
+
+.div-user{
+
+    border: 1px solid rgba(0, 0, 0, 0.144);
+
+    border-top-left-radius: 12px;
+
+    border-top-right-radius: 12px;
+
+}
+
+.img-user {
+
+    width: 50px;
+
+    height: 50px;
+    
+    border: 1px solid transparent;
+
+    border-radius: 50%;
+
+    box-shadow: 3px 3px 3px gray;
+}
+
+
+
+/* img-card-body-size */
+
+.img-size {
+
+    height: 150px;
+
+}
+
+/* Body-size */
+
+.body-size{
+
+    height: 150px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: space-around;
+}
+
+/* Icon Like-Dislike */
+
+.icon-like {
+
+    background-color: transparent;
+
+    border: 0;
+
+    color: blue;
+}
+
+.icon-like:hover {
+
+    transform: scale(2,2);
+
+}
+
+
+.icon-dislike {
+
+    background-color: transparent;
+
+    border: 0;
+
+    color: red;
+}
+
+.icon-dislike:hover {
+
+    transform: scale(2,2);
+
+}

@@ -1,0 +1,96 @@
+/* Team section custom*/
+
+.bg1-juventus{
+    
+    color: white;
+
+    background-color: black;
+
+    border-radius: 12px;
+
+}
+
+.bg2-juventus{
+
+    padding: 50px;
+
+    font-weight: bold;
+
+    color: black;
+
+    background-color: white;
+
+    list-style: none;
+
+    border-radius: 12px;
+
+    
+}
+
+.bg1-inter{
+
+    color: black;
+
+    background-color: blue;
+
+    border-radius: 12px;
+
+    
+}
+
+.bg2-inter{
+
+    padding: 50px;
+
+    font-weight: bold;
+
+    color: blue;
+
+    background-color: black;
+
+    list-style: none;
+
+    border-radius: 12px;
+
+    
+}
+
+
+
+
+/* T-shirt icon Custom*/
+
+
+
+.img-shirt {
+
+    width: 30px;
+
+    height: 30px;
+}
+
+.position-number-under10 {
+
+    font-size: 12px;
+
+    position: absolute;
+
+    left: 12px;
+
+    top: 5px;
+
+
+}
+
+.position-number {
+
+    font-size: 12px;
+
+    position: absolute;
+
+    left: 8px;
+
+    top: 5px;
+
+
+}

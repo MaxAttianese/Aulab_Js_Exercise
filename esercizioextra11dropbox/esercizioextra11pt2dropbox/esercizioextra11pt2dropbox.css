@@ -1,0 +1,101 @@
+/* Body Custom */
+
+body {
+
+    background-color: whitesmoke;
+
+}
+
+
+
+/* Logo Custom */
+
+.img-custom{
+
+    height: 25px;
+
+    padding-bottom: 3px;
+}
+
+
+
+/* Navbar link Hover */
+
+.link-hov:hover {
+
+    color: blue;
+}
+
+
+.btn-hov {
+
+    border: 1px solid blue;
+
+    background-color: blue;
+
+    color: white;
+}
+
+
+
+.btn-hov:hover {
+
+    background-color: red;
+
+    color: white;
+}
+
+/* Img Custom */
+
+.img-user{
+
+    height: 250px;
+
+    padding: 10px;
+
+    border: 1px solid rgba(0, 0, 0, 0.203);
+
+    border-radius: 12px;
+
+    box-shadow: 5px 5px 5px gray;
+
+    background-color: whitesmoke;
+}
+
+/* Box Custom */
+
+.div-box-bg-shadow{    
+
+    background-color: darkblue;
+
+    box-shadow: 8px 8px 8px gray;
+
+    color: white;
+}
+
+/* Name-custom */
+
+.shadow-text{
+
+    text-shadow: 2px 2px 2px gray;
+}
+
+
+/* Icon Like-Dislike */
+
+.link-hov-card {
+    
+    border: 1px solid blue;
+
+    background-color: blue;
+
+    color: white;
+}
+
+.link-hov-card:hover {
+
+    background-color: red;
+
+    color: white;
+
+}
